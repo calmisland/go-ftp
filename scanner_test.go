@@ -1,7 +1,7 @@
 package ftp
 
 import "testing"
-import "github.com/stretchr/testify/assert"
+import "github.com/calmisland/go-testify/assert"
 
 func TestScanner(t *testing.T) {
 	assert := assert.New(t)
